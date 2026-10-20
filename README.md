@@ -98,8 +98,10 @@ S'executa finalment el procés de desxifrat indicant l'algoritme de xifratge cor
 
 ## Planteja mesures de millora de la seguretat de l'equip a nivell lògic per evitar que un atacant real pugui replicar el mateix atac i per establir una política de contrasenyes segures.
 
+1. Protegir l'accés a GRUB per evitar entrar en mode recovery.
+
 1. Desactivar l'accés directe de root per SSH.
 
-2. Exigir una longitud mínima de 12 caràcters.
+1. Exigir una longitud mínima de 12 caràcters.
 
-3. Instal·lar programes per bloquejar automàticament les IPs d'atacants després d'intents fallits consecutius.
+1. Instal·lar programes per bloquejar automàticament les IPs d'atacants després d'intents fallits consecutius.
