@@ -35,6 +35,8 @@ S'utilitza la comanda scp des de la víctima per transferir de manera remota els
 ## Instal·lació de John the Ripper i Johnny
 S'instal·len al sistema operatiu les eines de auditoria de contrasenyes John the Ripper i la seva interfície gràfica Johnny utilitzant el gestor de paquets.
 
+![](/img/9.png)
+
 ---
 <br>
 <br>
@@ -59,7 +61,6 @@ S'importa el fitxer combinat dins de la interfície gràfica de Johnny i es carr
 <br>
 <br>
 
-![](/img/9.png)
 ![](/img/10.png)
 ![](/img/11.png)
 ![](/img/12.png)
