@@ -16,6 +16,7 @@ S'activa i s'inicia el servei SSH a la màquina víctima mitjançant systemctl (
 ##
 
 ![](/img/4.png)
+![](/img/6.png)
 ## Transferència d'arxius amb SCP
 S'utilitza la comanda scp des de la víctima per transferir de manera remota els fitxers essencials de credencials (/etc/passwd i /etc/shadow) cap a la Kali Linux.
 
@@ -27,7 +28,7 @@ S'instal·len al sistema operatiu les eines de auditoria de contrasenyes John th
 
 ##
 
-![](/img/6.png)
+
 ## Fusió de fitxers amb unshadow
 S'executa la comanda unshadow per fusionar els fitxers passwd i shadow en un de sol que l'eina de cracking pugui processar
 
@@ -46,7 +47,7 @@ S'importa el fitxer combinat dins de la interfície gràfica de Johnny i es carr
 ![](/img/12.png)
 ![](/img/13.png)
 ![](/img/14.png)
-## Obertura de credencials a Johnny i llistat d'usuaris
+
 Es descomprimeix el diccionari estàndard de contrasenyes i es configuran els paràmetres de l'atac.
 
 ##
